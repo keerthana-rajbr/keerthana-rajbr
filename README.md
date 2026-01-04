@@ -1,62 +1,109 @@
-<p align="center">
-  <img src="hero-pic.jpg" alt="Keerthana's Hero Image" width="100%" height="auto">
-</p>
+# Hi, I’m Keerthu 👋
 
-<br>
-
-<h1 align="center">Good day, I'm Keerthana Raj B R! </h1>
-<p align="center">💻 Passionate Test Engineer 💻</p>
+🧪 Software Quality Engineer | Python Learner | Aspiring SDET  
+🎯 4.3+ years of experience in manual testing of enterprise applications
 
 ---
 
-### 👧 About Me
+## 👩‍💻 Professional Summary
 
-Passionate Test Engineer with 2 years of hands-on experience in ensuring software quality through meticulous manual testing and possessing a foundational understanding of automation testing. Adept at crafting effective test cases, executing rigorous testing processes, and collaborating with cross-functional teams to ensure the delivery of high-quality software. Additionally, equipped with a medium-level proficiency in front-end technologies.
-
----
-
-### 💡 A showcase of my Skills
-
-- Manual Testing  - Thorough understanding of manual testing processes, test case design, and execution
-- Automation Testing - Basic proficiency with Selenium WebDriver and programming languages like Java
-- Testing Types - Regression Testing, Functional Testing
-- Tools - Jira
-- Front-end Technologies - HTML, CSS, JavaScript
-- Version Control System - Git
-- IDE - VS Code, Sublime Text, Eclipse
-- Other software - MS Office
+Software Quality Engineer with 4.3 years of experience in manual and functional testing of enterprise web applications. Strong understanding of the Software Testing Life Cycle (STLC), defect management, and backend data validation using SQL. Hands-on exposure to Python fundamentals, Robot Framework execution, and API testing using Postman. Actively transitioning towards an SDET role with a strong focus on automation, backend testing, and logical problem-solving.
 
 ---
 
-### ⌛ Professional Journey
+## 🛠️ Core Skills
 
-#### Test Engineer | Infosys Chennai | India | Nov 2021 - Present
-  - Perform regression testing to identify and report bugs, ensuring the stability of software releases.
-  - Collaborate closely with the development team to understand requirements and provide valuable feedback.
-  - Executed test cases, reported/tracked defects via issue tracking, and performed regression testing for bug fixes.
+### 🧪 Testing & QA
+- Manual Testing, Functional Testing  
+- Regression Testing, Smoke Testing, Sanity Testing  
+- Test Case Writing, Test Scenario Preparation  
+- Test Plan Creation & Test Execution  
+
+### 🐞 Defect Management
+- Defect Identification & Bug Reporting  
+- Defect Tracking & Lifecycle Management  
+- JIRA, qTest  
+
+### 🔄 Process & Methodologies
+- SDLC, STLC  
+- Agile Methodology, Scrum  
+
+### 🌐 API & Database Testing
+- API Testing (Postman – Basic)  
+- SQL (Basic)  
+- Backend & Database Validation  
+
+### 🤖 Automation (Learning Phase)
+- Python (Fundamentals & Logic Building)  
+- Robot Framework (Execution & Analysis)  
+
+### 💡 Quality & Soft Skills
+- Requirement Analysis  
+- Analytical & Problem-Solving Skills  
+- Documentation & Communication  
+- Quality-focused mindset  
 
 ---
 
-### 🏆 Awards and Recognition
+## 💼 Professional Experience
 
-- Insta Award from Infosys for delivering projects without any production defects leakage.
+### **Software Quality Engineer**  
+**Infosys Ltd | 2021 – Present**
+
+- Performed end-to-end manual testing of enterprise web applications across multiple releases.
+- Designed, reviewed, and executed test cases based on business requirements and user stories.
+- Identified, logged, and tracked defects using JIRA and qTest, ensuring proper defect lifecycle management.
+- Conducted regression and smoke testing to ensure application stability after fixes and enhancements.
+- Validated backend data using SQL queries to ensure data accuracy and integrity.
+- Performed manual API testing using Postman to validate request/response behavior.
+- Collaborated closely with developers, business analysts, and product owners in Agile sprint cycles.
+- Executed and analyzed Robot Framework test cases and supported automation test runs.
 
 ---
 
+## 🏆 Awards & Recognition
 
-### 🎯 Learning and Development
+- **Insta Award – Client Appreciation**  
+  Recognized for strong understanding of user stories, identifying functional gaps, and reducing UAT defects through effective testing.
 
-- Currently enhancing Automation skills through online courses in Selenium with Java.
+- **Insta Award – Quality Excellence**  
+  Awarded for consistent contribution to quality assurance and maintaining high testing standards.
 
 ---
 
-### ☎️ Get in touch
+## 🎓 Education
 
-- 📧 Email: keerthanarajbr98@gmail.com
-- 🔗 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/keerthana-raj-b-r/)
-- 📸 Instagram: [Connect on Instagram](https://www.instagram.com/krish.naalover/?utm_source=qr&igshid=OGIxMTE0OTdkZA%3D%3D)
-- 🔗 Facebook: [Connect on Facebook](https://www.facebook.com/profile.php?id=61550714632730&mibextid=ZbWKwL)
-  
+**Bachelor of Technology (B.Tech)**  
+RIET | 2017 – 2021  
+**CGPA:** 8.27
+
 ---
 
-Smile When You Find Bug 😉
+## 🧰 Tools & Technologies
+
+- JIRA  
+- Postman (Basic)  
+- SQL Developer (Basic)  
+- Python  
+- Robot Framework  
+- qTest  
+- MS Excel  
+- Web Applications Testing  
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Python fundamentals & problem-solving skills  
+- Building clean, structured Python practice repositories  
+- Transitioning into **SDET / QA Automation** roles  
+
+---
+
+## 🌱 Learning Philosophy
+
+> “A tester’s job is not just to find bugs — but to question logic.”  
+> “Correct behavior matters more than perfect-looking code.”
+
+Thanks for visiting my profile 😊  
+Always learning, always testing, always improving 🚀
