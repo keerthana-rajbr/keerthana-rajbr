@@ -1,7 +1,15 @@
-# Hi, I’m Keerthu 👋
+<p align="center">
+  <img src="banner.png" alt="Keerthana Raj B R - Software Quality Engineer" />
+</p>
 
-🧪 Software Quality Engineer | Python Learner | Aspiring SDET  
-🎯 4.3+ years of experience in manual testing of enterprise applications
+
+<h1 align="center">
+   Hi, I’m Keerthana Raj B R 👋
+</h1>
+<p align="center">
+  🧪 Software Quality Engineer | Python Learner | Aspiring SDET  <br>
+  🎯 4.3+ years of experience in manual testing of enterprise applications
+</p>
 
 ---
 
